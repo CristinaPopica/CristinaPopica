@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CristinaPopica
+- 👋 Hi, I’m @Cri
 - 👀 I’m interested in manual testing :)
 - 🌱 I’m currently learning about SCP, SaaS, SSD, EDSW
 - 📫 How to reach me: cristina_popica@waters.com or Teams channels.
